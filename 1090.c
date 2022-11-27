@@ -212,13 +212,5 @@ int main() {
 
 
 /*
- * Student ID: 201600830
- * Student Name: Yunfan Shi
- * Email: sgyshi31@liverpool.ac.uk
- *
- * User: sgyshi31
- *
- * Problem ID: 1090
- * RunID: 51376
  * Result: Accepted
  */
