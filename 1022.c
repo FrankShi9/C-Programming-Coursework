@@ -32,13 +32,5 @@ void cntCharInStr(){
 
 
 /*
- * Student ID: 201600830
- * Student Name: Yunfan Shi
- * Email: sgyshi31@liverpool.ac.uk
- *
- * User: sgyshi31
- *
- * Problem ID: 1022
- * RunID: 43985
  * Result: Accepted
  */
