@@ -27,14 +27,6 @@ void nDigit(){
 
 
 /*
- * Student ID: 201600830
- * Student Name: Yunfan Shi
- * Email: sgyshi31@liverpool.ac.uk
- *
- * User: sgyshi31
- *
- * Problem ID: 1030
- * RunID: 43984
  * Result: Accepted
  */
 
