@@ -24,13 +24,5 @@ void reverse(){
 }
 
 /*
- * Student ID: 201600830
- * Student Name: Yunfan Shi
- * Email: sgyshi31@liverpool.ac.uk
- *
- * User: sgyshi31
- *
- * Problem ID: 1018
- * RunID: 43986
  * Result: Accepted
  */
