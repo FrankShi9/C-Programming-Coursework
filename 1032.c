@@ -78,13 +78,5 @@ int strlen(char input[]){
 
 
 /*
- * Student ID: 201600830
- * Student Name: Yunfan Shi
- * Email: sgyshi31@liverpool.ac.uk
- *
- * User: sgyshi31
- *
- * Problem ID: 1032
- * RunID: 44007
  * Result: Accepted
  */
